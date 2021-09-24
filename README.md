@@ -2,9 +2,10 @@
 >Sites Tracker for my Favorite Shopping Websites!
 ---
 ### Table of Contents
-- [Description] (#description)
-- [How to Use] (#how-to-use)
-- [Author Info] (#author-info)
+- [Description](#description)
+- [How to Use](#how-to-use)
+- [Author Info](#author-info)
+
 ---
 ## Description
 This is a simple Chrome Extension to track all my favorite shopping websites, so I can reference back whenever I feel like buying things. 
@@ -24,7 +25,7 @@ I think many people can relate to this, and this extension could help solve this
 - HTML/CSS/JS text editor
 ---
 ## Author Info
-- LinkedIn: [Yen Nguyen] (https://www.digitalocean.com/community/tutorials/how-to-push-an-existing-project-to-github)
+- LinkedIn: [Yen Nguyen](https://www.digitalocean.com/community/tutorials/how-to-push-an-existing-project-to-github)
 
 
 
